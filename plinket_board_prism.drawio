@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="5v8HJ1yWOcfsFn8PfRNU">
-    <mxGraphModel dx="2117" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,16 +23,16 @@
           <mxGeometry x="106" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lW_S1ad1Wm1c-Adbqdd0-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="60" height="52" as="geometry" />
+          <mxGeometry x="300" y="100" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="lW_S1ad1Wm1c-Adbqdd0-48" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
-          <mxGeometry x="250" y="208" width="60" height="52" as="geometry" />
+          <mxGeometry x="300" y="204" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="lW_S1ad1Wm1c-Adbqdd0-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="60" height="52" as="geometry" />
+          <mxGeometry x="300" y="316" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="lW_S1ad1Wm1c-Adbqdd0-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
-          <mxGeometry x="250" y="426" width="60" height="52" as="geometry" />
+          <mxGeometry x="300" y="422" width="60" height="52" as="geometry" />
         </mxCell>
         <mxCell id="lW_S1ad1Wm1c-Adbqdd0-51" value="External Offers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="-50" width="60" height="30" as="geometry" />
@@ -75,6 +75,27 @@
             <mxPoint x="40" y="310" as="sourcePoint" />
             <mxPoint x="156" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-61" value="Prism Idenity (pay-to-self)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="495" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
+          <mxGeometry x="137" y="47" width="24" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
+          <mxGeometry x="137" y="139" width="24" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
+          <mxGeometry x="137" y="232" width="24" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
+          <mxGeometry x="137" y="324" width="24" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-68" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
+          <mxGeometry x="137" y="416" width="24" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lW_S1ad1Wm1c-Adbqdd0-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pyramid;dx1=0.37;dx2=0.56;dy1=0.9;dy2=0.8;" vertex="1" parent="1">
+          <mxGeometry x="137" y="508" width="24" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
